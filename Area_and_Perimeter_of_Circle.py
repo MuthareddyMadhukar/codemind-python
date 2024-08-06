@@ -1,0 +1,5 @@
+x=int(input())
+a=(3.14*x*x)
+p=(x*3.14*2)
+print('{:.2f}'.format(a))
+print('{:.2f}'.format(p))
